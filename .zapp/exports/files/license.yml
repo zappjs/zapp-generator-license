@@ -1,0 +1,6 @@
+filename: LICENSE
+engine: handlebars
+template: license
+mapping:
+  copyright: /app/copyright
+  license: /app/license

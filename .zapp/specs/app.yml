@@ -1,0 +1,6 @@
+name: '@zappjs/generator-license'
+title: LICENSE Generator
+version: 0.1.0
+description: generates a LICENSE file
+copyright: 2018 ZappJS
+license: apache-2.0

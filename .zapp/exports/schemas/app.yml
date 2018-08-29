@@ -1,0 +1,11 @@
+type: object
+properties:
+  copyright:
+    type: string
+    description: 'your app''s copyright info (ex: 2017 Acme, Inc.)'
+  license:
+    enum:
+      - mit
+      - apache-2.0
+    type: string
+    description: 'your app''s license type (ex: mit, apache-2.0)'
